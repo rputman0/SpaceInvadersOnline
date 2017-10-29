@@ -1,4 +1,4 @@
-#Menu Screen
+#Menu Screen (show as a set of four buttons)
   1.Play
   2.High Scores (top 10 - allow user to enter text/handle wrong input)
   3.Options - Language/SFX/Music/Customize Controls/Help
@@ -26,7 +26,7 @@
    10 - bottom two rows
    20 - middle and second from top rows
    30 - top row
-   50/100/150/300
+   50/100/150/300 - mystery alien
    
    1,000/1,5000 - extra life, but none thereafter
    
