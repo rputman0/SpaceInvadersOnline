@@ -1,0 +1,47 @@
+#Menu Screen
+  1.Play
+  2.High Scores (top 10 - allow user to enter text/handle wrong input)
+  3.Options - Language/SFX/Music/Customize Controls/Help
+  4.Exit
+ 
+#Play Screen
+  Player - move left and right (stop at edges)
+    -partially protected by several stationary defonse bunkers (4 average)
+    -can be destroyed by alien and player
+    -fire missile by pressing space
+    
+  -defeat five rows of eleven aliens, 
+    -move horizontally back and forth across the screen as they advance toward the bottom
+    -can fire missles at player
+    -earns points by defeating aliens
+    -special mystery ship moves across screen (maybe only once per game? -play special sound)
+  -as more aliens are defeated
+     -music is sped up
+     -aliens movement is sped up
+     
+  -defeating the aliens bring another wave that is more difficult
+      - can loop forever, or can place boss level after a certain number of rounds
+     
+#Scoring
+   10 - bottom two rows
+   20 - middle and second from top rows
+   30 - top row
+   50/100/150/300
+   
+   1,000/1,5000 - extra life, but none thereafter
+   
+   highscore max = 9,990
+ 
+ #Help Menu (Esc)
+      put scoring on help menu
+      put custom controls on
+      put sfx/music controls on
+      allow to pause
+
+ #HUD
+ start with three lifes, place icons on bottom left
+ Score - Top Left
+ High Schire - Top Right
+ 
+ 
+ From: https://en.wikipedia.org/wiki/Space_Invaders
