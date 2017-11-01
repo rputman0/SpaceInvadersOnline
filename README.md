@@ -1,5 +1,3 @@
-# Space Invaders
-html/css/javascript space invader game
+# Pong
 
-All of our sprites, and sounds come directly from [here](
-http://www.classicgaming.cc/classics/space-invaders/).
+Simple version of pong. WIP
